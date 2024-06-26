@@ -1,0 +1,16 @@
+.weather-dashboard {
+  padding: 20px;
+  background-color: rgb(68, 164, 208);
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+.weather-dashboard h2 {
+  color: #333;
+}
+
+.weather-dashboard p {
+  font-size: 18px;
+  color: white;
+}

@@ -1,0 +1,22 @@
+.weather-ticker {
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+.weather-ticker h2 {
+  color: #333;
+}
+
+.weather-ticker ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.weather-ticker li {
+  font-size: 18px;
+  color: #555;
+  padding: 5px 0;
+}
