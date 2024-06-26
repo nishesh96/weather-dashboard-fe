@@ -2,7 +2,8 @@ import React, { useEffect, useState } from "react";
 import axios from "axios";
 import "./WeatherDashboard.css";
 
-export const BASE_URL = process.env.REACT_APP_WEATHER_API_BASE_URL;
+// export const BASE_URL = process.env.REACT_APP_WEATHER_API_BASE_URL;
+export const BASE_URL = "https://weather-dashboard-server.vercel.app";
 
 interface WeatherDashboardProps {
   zipCode: string;
