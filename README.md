@@ -2,6 +2,10 @@
 
 Displays the current weather and forecast for a user-selected location but also includes a live ticker of weather updates for 3 user-selected cities in India.
 
+<img width="1508" alt="image" src="https://github.com/nishesh96/weather-dashboard-fe/assets/8986274/9cf00d0e-eab9-424d-baa2-43f2f91c086c">
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
