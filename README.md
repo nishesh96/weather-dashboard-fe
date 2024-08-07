@@ -1,4 +1,4 @@
-# Weather-Dashboard_FE app 
+# Weather Dashboard Application with live ticker
 
 1) Displays the current weather and forecast for a user-selected location
 2) Includes a live ticker of weather updates for 3 user-selected cities in India.
